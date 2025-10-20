@@ -89,3 +89,11 @@ We will be using more data from the `ISLP` package. In this case, the data corre
 
   * Fit a regression tree to the training set. Plot the tree and interpret the results. Report the test MSE.
   * Use cross-validation in order to determine the optimal level of tree complexity. Does pruning the tree improve the test MSE?
+
+---
+
+## Deliverables
+
+* You must fork the [original repository](https://github.com/RodrigoGrijalba/ENEI-2025-ML2-Tarea1), and turn in a link to your group's repository.
+* This fork must have a Jupyter notebook in the `src` folder, which contains all the code to solve each of the problems.
+* For the written commentary, you may choose between presenting it in Markdown cells within the Jupyter notebook or creating a separate `README.md` inside the `src` folder.
