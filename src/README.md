@@ -1,4 +1,4 @@
-# ENEI 2025 ML2
+# MACHINE LEARNING II
 
 Este proyecto integra tres secciones correspondientes a la **Tarea 1**.
 
