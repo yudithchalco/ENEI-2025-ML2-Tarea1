@@ -19,7 +19,6 @@ Este proyecto integra tres secciones correspondientes a la **Tarea 1**.
 **Conclusión:**  
 El modelo logra buena precisión; la regularización y el preprocesamiento de texto son claves para evitar sobreajuste.
 
----
 
 ## Parte B: Máquinas de Vectores de Soporte (SVM)
 **Objetivo:** estudiar el efecto del parámetro `C` en el sobreajuste.  
@@ -31,9 +30,8 @@ El modelo logra buena precisión; la regularización y el preprocesamiento de te
 **Conclusión:**  
 Valores pequeños de `C` generan subajuste (alto sesgo).  
 Valores grandes producen sobreajuste (alta varianza).  
-El mejor desempeño se obtuvo con `C` intermedio (≈ 1 a 10).
+El mejor desempeño se obtuvo con `C` intermedio (1 a 10).
 
----
 
 ## Parte C: Árboles de Regresión - Dataset Carseats
 **Dataset:** Carseats (paquete ISLP)  
