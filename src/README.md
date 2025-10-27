@@ -1,4 +1,5 @@
 # MACHINE LEARNING II
+Autor: Chalco Cerezo Yudith Diana  
 
 Este proyecto integra tres secciones correspondientes a la **Tarea 1**.
 
@@ -45,6 +46,3 @@ El mejor desempeño se obtuvo con `C` intermedio (1 a 10).
 **Conclusión:**  
 El árbol podado reduce la varianza y mejora la capacidad de generalización.  
 Los factores más relevantes son la ubicación del producto y el precio.
-
----
-- Chalco Cerezo Yudith Diana  
